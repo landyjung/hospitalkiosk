@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../App.css">
+</head>
+<body>
+<div class="room_detail">
+    <div class="title_top">
+        <h3>신장내과</h3>
+        <button class="close_btn"></button>
+    </div>
+    <div class="doctor_detail">
+        <img src="../images/doc_img/001_Family_02.jpg" alt="">
+        <div>
+            <div class="doc_name">이름<span class="part_name">진료과</span></div>
+            <p class="txt_01">진료안내</p>
+            <p class="part_name2">연구진료분야</p>
+            <p class="txt_02">진료안내진료안내진료안내진료안내진료안내진료안내</p>
+        </div>        
+    </div>
+    <img src="../images/doctor_time.png" alt="">
+</div> 
+
+
+<li>
+    {{
+        Links.map(({to, label}, idx)=>(
+        
+        <Link /* to="/Floor_01" */
+        key={to} 
+        to={to} 
+        onClick={ ()=>{ setSelect(idx) } } 
+        style={{
+            color: select===idx ? '#2B7DE8' : '#222', 
+            fontWeight: select===idx ? 'bold' : 'normal', 
+            paddingRight:'50px', paddingLeft:'50px'
+        }}
+        >{label}</Link>
+        ))
+    }}
+    </li>
+</body>
+</html>

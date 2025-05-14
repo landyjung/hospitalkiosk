@@ -1,0 +1,665 @@
+[
+    {
+      "floor": "f1",
+      "entries": [
+        {
+          "part": "신장내과",
+          "room_n": 101,
+          "img_n": 12,
+          "title_e": "Nephrology",
+          "doctor": {
+            "doc_name": "김종성 ",
+            "doc_img": "012_Nephrology_01",
+            "doc_text1": "금주, 만성질환, 건강증진",
+            "doc_text2": "흡연, 비만, 신체활동 등 건강증진의 여러 영역에 해당되는 문제들"
+          }
+        },
+        {
+          "part": "신장내과",
+          "room_n": 101,
+          "img_n": 12,
+          "title_e": "Nephrology",
+          "doctor": {
+            "doc_name": "이사미 ",
+            "doc_img": "012_Nephrology_02",
+            "doc_text1": "만, 금연, 만성질환, 생활습관병, 성인예방접종, 건강검진",
+            "doc_text2": "비만, 금연, 만성질환, 생활습관병, 성인예방접종, 건강검진"
+          }
+        },
+        {
+          "part": "류마티스내과",
+          "room_n": 102,
+          "img_n": 3,
+          "title_e": "Rheumatology",
+          "doctor": {
+            "doc_name": "박찬걸",
+            "doc_img": "003_Rheumatology_01",
+            "doc_text1": "류마티스관절염, 골관절염, 강직척추염, 통풍, 루푸스, 기타 류마티스성질환",
+            "doc_text2": "류마티스관절염, 골관절염, 강직척추염, 통풍, 루푸스, 골관절염 및 기타 자가 면역질환"
+          }
+        },
+        {
+          "part": "류마티스내과",
+          "room_n": 102,
+          "img_n": 3,
+          "title_e": "Rheumatology",
+          "doctor": {
+            "doc_name": "주동욱",
+            "doc_img": "003_Rheumatology_02",
+            "doc_text1": "류마티스내과",
+            "doc_text2": "류마티스관절염, 골관절염, 강직척추염, 통풍, 루푸스, 골관절염 및 기타 자가 면역질환"
+          }
+        },
+        {
+          "part": "심장내과",
+          "room_n": 103,
+          "img_n": 13,
+          "title_e": "Cardiology",
+          "doctor": {
+            "doc_name": "김민수",
+            "doc_img": "013_Cardiology_01",
+            "doc_text1": "발작성 빈맥, 심방세동, 조기수축, 실신, 심박동기, 제세동기, 심장재동기화치료, 기타 부정맥",
+            "doc_text2": "냉각풍선절제술을 이용한 심방세동 및 수면무호흡 환자의 시술 방실결절회귀성빈맥에서 낮은 에너지를 이용한 전극도자절제술"
+          }
+        },
+        {
+          "part": "심장내과",
+          "room_n": 103,
+          "img_n": 13,
+          "title_e": "Cardiology",
+          "doctor": {
+            "doc_name": "오진경",
+            "doc_img": "013_Cardiology_02",
+            "doc_text1": "고혈압, 심부전, 심장판막질환, 심낭질환",
+            "doc_text2": "중증의 승모판 폐쇄부전 환자에서 좌심방의 종축 변형 값을 이용한 수술후 예후 예측모델 연구"
+          }
+        },
+        {
+          "part": "내분비내과",
+          "room_n": 104,
+          "img_n": 7,
+          "title_e": "Endocrinology",
+          "doctor": {
+            "doc_name": "정경혜",
+            "doc_img": "007_Endocrinology_01",
+            "doc_text1": "당뇨병, 갑상선질환, 골다공증, 내분비대사질환",
+            "doc_text2": "당뇨병 환자들이 합병증 없이 건강한 삶을 누릴 수 있도록 당뇨병 발생 원인과 맞춤 치료법 연구 갑상선 암 진단을 위한 갑상선 초음파 및 조직검사"
+          }
+        },
+        {
+          "part": "내분비내과",
+          "room_n": 104,
+          "img_n": 7,
+          "title_e": "Endocrinology",
+          "doctor": {
+            "doc_name": "김지민",
+            "doc_img": "007_Endocrinology_02",
+            "doc_text1": "내분비대사질환, 갑상선 및 갑상선 초음파, 골다공증, 당뇨병 및 대사증후군",
+            "doc_text2": "당뇨병 및 관련 합병증의 조기 예측 방법 및 효과적인 치료법 개발"
+          }
+        },
+        {
+          "part": "감염내과",
+          "room_n": 105,
+          "img_n": 2,
+          "title_e": "Infectious",
+          "doctor": {
+            "doc_name": "김성민",
+            "doc_img": "002_Infectious_01",
+            "doc_text1": "발열(불명열)과 각종 감염질환 (지역사회감염, 의료관련감염, HIV/AIDS, 신종감염병 등), 여행의학클리닉(황열 등 예방접종), 성인예방접종",
+            "doc_text2": "발열(불명열)과 각종 감염질환 (지역사회감염, 의료관련감염, HIV/AIDS, 신종감염병 등) 여행의학클리닉(황열 등 예방접종), 성인예방접종"
+          }
+        },
+        {
+          "part": "감염내과",
+          "room_n": 105,
+          "img_n": 2,
+          "title_e": "Infectious Diseases",
+          "doctor": {
+            "doc_name": "김정옥",
+            "doc_img": "002_Infectious_02",
+            "doc_text1": "발열(불명열)과 각종 감염질환 (지역사회감염, 의료관련감염, HIV/AIDS, 신종감염병 등), 여행의학클리닉(황열 등 예방접종), 성인예방접종",
+            "doc_text2": "사람면역결핍바이러스 감염, 면역저하자 감염(예방접종 상담), 진균질환, 발열, 의료관련감염(수술부위 감염), 세균감염, 기생충감염, 불명열, 감염관리, 여행의학, 신종감염병"
+          }
+        },
+        {
+          "part": "응급의학과",
+          "room_n": 106,
+          "img_n": 17,
+          "title_e": "Emergency",
+          "doctor": {
+            "doc_name": "정상민",
+            "doc_img": "017_Emergency_01",
+            "doc_text1": "응급 및 소생의학 혈관 및 비혈관 중재술, 응급 중재술",
+            "doc_text2": "응급 및 소생의학 혈관 및 비혈관 중재술, 응급 중재술"
+          }
+        },
+        {
+          "part": "응급의학과",
+          "room_n": 106,
+          "img_n": 17,
+          "title_e": "Emergency",
+          "doctor": {
+            "doc_name": "김기쁨",
+            "doc_img": "017_Emergency_02",
+            "doc_text1": "성인응급의학",
+            "doc_text2": NaN
+          }
+        },
+        {
+          "part": "통증클리닉",
+          "room_n": 107,
+          "img_n": 20,
+          "title_e": "PainClinic",
+          "doctor": {
+            "doc_name": "김여정",
+            "doc_img": "020_PainClinic_01",
+            "doc_text1": "경추 및 요추 디스크 시술, 척추 협착증, 대상포진 및 각종 신경통, 어깨통증",
+            "doc_text2": "환자들의 경추 통증, 허리 통증, 각종 신경통을 줄여줄 수 있는 비수술적 시술 (초음파 시술, 신경블록시술, 고주파 시술, 신경성형술, 추간공성형술 등) 및 다양한 방법을 통하여 통증 관리에 특화된 치료"
+          }
+        },
+        {
+          "part": "통증클리닉",
+          "room_n": 107,
+          "img_n": 20,
+          "title_e": "PainClinic",
+          "doctor": {
+            "doc_name": "이승훈",
+            "doc_img": "020_PainClinic_02",
+            "doc_text1": "일반 마취, 부위 마취, 통증 관리",
+            "doc_text2": "안전하고 편안하게 수술을 받을 수 있도록 다양한 방법으로 마취 및 통증 조절 제공 급/만성 통증 환자의 통증 조절"
+          }
+        },
+        {
+          "part": "진단검사의학과",
+          "room_n": 108,
+          "img_n": 22,
+          "title_e": "Laboratory Medicine",
+          "doctor": {
+            "doc_name": "최규태",
+            "doc_img": "022_Laboratory_01",
+            "doc_text1": "임상화학, 진단유전학, 임상미생물학",
+            "doc_text2": "항생제 내성균의 메커니즘 규명 NGS 데이터 분석을 위한 생물정보학"
+          }
+        },
+        {
+          "part": "진단검사의학과",
+          "room_n": 108,
+          "img_n": 22,
+          "title_e": "Laboratory Medicine",
+          "doctor": {
+            "doc_name": "김현진",
+            "doc_img": "022_Laboratory_02",
+            "doc_text1": "혈액학, 수혈의학, 진단면역학, 임상미생물",
+            "doc_text2": "균혈증 원인균 역학 및 유전체 분석 항생제 내성균 역학 및 유전체 분석"
+          }
+        },
+        {
+          "part": "가정의학과",
+          "room_n": 109,
+          "img_n": 1,
+          "title_e": "Family Medicine",
+          "doctor": {
+            "doc_name": "김규필",
+            "doc_img": "001_Family_01",
+            "doc_text1": "노인, 금연, 비만, 성인예방접종, 건강검진 상담",
+            "doc_text2": "흡연, 비만, 노인질환"
+          }
+        },
+        {
+          "part": "가정의학과",
+          "room_n": 109,
+          "img_n": 1,
+          "title_e": "Family Medicine",
+          "doctor": {
+            "doc_name": "서유리",
+            "doc_img": "001_Family_02",
+            "doc_text1": "비만, 금연, 성인예방접종, 건강검진 상담",
+            "doc_text2": "흡연, 비만, 신체활동 등 건강증진의 여러 영역에 해당되는 문제들"
+          }
+        },
+        {
+          "part": "방사선종양학과",
+          "room_n": 110,
+          "img_n": 5,
+          "title_e": "Radiation Oncology",
+          "doctor": {
+            "doc_name": "김영일",
+            "doc_img": "005_Radiation_01",
+            "doc_text1": "뇌종양, 두경부암, 유방암, 식도암, 폐암, 전이성암",
+            "doc_text2": "최신식 방사선치료 기법의 도입으로, 방사선치료에 동반되는 부작용을 최소화하고, 방사선치료 기간의 단축으로 환자의 불편함을 최소화"
+          }
+        },
+        {
+          "part": "방사선종양학과",
+          "room_n": 110,
+          "img_n": 5,
+          "title_e": "Radiation Oncology",
+          "doctor": {
+            "doc_name": "박준수",
+            "doc_img": "005_Radiation_02",
+            "doc_text1": "소화기종양, 간담췌종양, 부인과종양, 비뇨생식기종양, 육종",
+            "doc_text2": "자기공명영상 장치와 선형가속기가 결합된 최신 방사선치료기(MRIdian, ViewRay)를 이용한 방사선치료"
+          }
+        },
+        {
+          "part": "영상의학과",
+          "room_n": 111,
+          "img_n": 15,
+          "title_e": "Radiology",
+          "doctor": {
+            "doc_name": "이영석",
+            "doc_img": "015_Radiology_01",
+            "doc_text1": "소아영상의학",
+            "doc_text2": "소아영상의학/단순촬영, 투시 촬영, 초음파검사, CT, MR 등"
+          }
+        },
+        {
+          "part": "영상의학과",
+          "room_n": 111,
+          "img_n": 15,
+          "title_e": "Radiology",
+          "doctor": {
+            "doc_name": "조준식",
+            "doc_img": "015_Radiology_02",
+            "doc_text1": "상복부 초음파 진단, 복부 영상(CT&MRI) 진단",
+            "doc_text2": "상복부 초음파 진단, 복부 영상(CT&MRI) 진단"
+          }
+        }
+      ]
+    },
+    {
+      "floor": "f2",
+      "entries": [
+        {
+          "part": "재활의학과",
+          "room_n": 201,
+          "img_n": 25,
+          "title_e": "Rehabilitation",
+          "doctor": {
+            "doc_name": "황창호",
+            "doc_img": "025_Rehabilitation_01",
+            "doc_text1": "뇌졸중, 실어증, 소아발달/언어지연, 측만증/족부질환, 의지보조기, 임파부종, 연하장애,복합부위통증증후군",
+            "doc_text2": "뇌졸증 관련 실어증, 근마비, 복합부위통증증후군 클리닉, 난치성 연하장애 의공학 치료, VR/AR 매개 뇌가소성 치료, 신경재생 약물나노로봇"
+          }
+        },
+        {
+          "part": "재활의학과",
+          "room_n": 201,
+          "img_n": 25,
+          "title_e": "Rehabilitation",
+          "doctor": {
+            "doc_name": "김영욱",
+            "doc_img": "025_Rehabilitation_02",
+            "doc_text1": "뇌졸중, 외상성 뇌손상, 암재활, 근감소증, 중환자재활, 말초신경계 질환, 근전도, 경직 (보톡스 시술), 장해진단, 연하재활, 소아재활",
+            "doc_text2": "뇌졸중환자의 여러 장애로부터 회복을 촉진하기 위한 비침습적 뇌자극치료, 신경근육자극치료, 로봇재활치료, 보툴리눔 톡신 (보톡스) 치료, 보조기센터(수요일오후), 소아재활"
+          }
+        },
+        {
+          "part": "정형외과",
+          "room_n": 202,
+          "img_n": 23,
+          "title_e": "Orthopedics",
+          "doctor": {
+            "doc_name": "이기수",
+            "doc_img": "023_Orthopedics_01",
+            "doc_text1": "족부질환(족부 변형,평발,요족), 무릎 인공관절, 스포츠 손상(무릎,족관절), 미세침습 무지외반",
+            "doc_text2": "족부질환(족부 변형, 평발, 요족), 무릎 인공관절, 스포츠 손상(무릎, 족관절), 미세침습 무지외반"
+          }
+        },
+        {
+          "part": "정형외과",
+          "room_n": 202,
+          "img_n": 23,
+          "title_e": "Orthopedics",
+          "doctor": {
+            "doc_name": "이정길",
+            "doc_img": "023_Orthopedics_02",
+            "doc_text1": "고관절 질환 및 외상",
+            "doc_text2": "고관절 관절염 및 고관절 주위 골절의 치료 고관절 관절염의 진행을 막아주는 관절경 수술"
+          }
+        },
+        {
+          "part": "외과",
+          "room_n": 203,
+          "img_n": 16,
+          "title_e": "surgery",
+          "doctor": {
+            "doc_name": "김진수",
+            "doc_img": "016_surgery_01",
+            "doc_text1": "대장암, 직장암, 항문질환, 골반저질환, 복강경, 로봇수술",
+            "doc_text2": "대장암 바이오마커 발굴, 직장암의 비수술적 치료, 수술 후 근감소증의 영향"
+          }
+        },
+        {
+          "part": "외과",
+          "room_n": 203,
+          "img_n": 16,
+          "title_e": "surgery",
+          "doctor": {
+            "doc_name": "김송이",
+            "doc_img": "016_surgery_02",
+            "doc_text1": "신장/췌장 이식, 하지정맥류, 혈관 중재술, 동맥 혈관질환, 림프 질환",
+            "doc_text2": "동물실험을 통한 혈관협착 원인과 치료 말기신장질환 환자의 신이식 수술 및 관리 췌장 이식 수술 및 관리"
+          }
+        },
+        {
+          "part": "신경외과",
+          "room_n": 204,
+          "img_n": 11,
+          "title_e": "Neurosurgery",
+          "doctor": {
+            "doc_name": "임정욱",
+            "doc_img": "011_Neurosurgery_01",
+            "doc_text1": "뇌동맥류, 뇌동정맥 기형, 모야모야병, 뇌내출혈, 허혈성뇌혈관질환(경동맥 협착, 급성뇌혈관개통술)",
+            "doc_text2": "출혈성 뇌혈관 질환의 신경 중재적 및 수술적 치료 허혈성 뇌혈관 질환의 신경 중재적 및 수술적 치료"
+          }
+        },
+        {
+          "part": "신경외과",
+          "room_n": 204,
+          "img_n": 11,
+          "title_e": "Neurosurgery",
+          "doctor": {
+            "doc_name": "박광현",
+            "doc_img": "011_Neurosurgery_02",
+            "doc_text1": "뇌종양, 안면경련, 안면통증, 파킨슨병, 이상운동질환, 두부외상",
+            "doc_text2": "출혈성 뇌혈관 질환의 신경 중재적 및 수술적 치료 허혈성 뇌혈관 질환의 신경 중재적 및 수술적 치료"
+          }
+        },
+        {
+          "part": "정신건강의학과",
+          "room_n": 205,
+          "img_n": 24,
+          "title_e": "Psychiatry",
+          "doctor": {
+            "doc_name": "원근희",
+            "doc_img": "024_Psychiatry_01",
+            "doc_text1": "소아청소년정신의학, 정신신체의학, 자문조정정신의학",
+            "doc_text2": "소아청소년정신의학. 정신신체의학"
+          }
+        },
+        {
+          "part": "정신건강의학과",
+          "room_n": 205,
+          "img_n": 24,
+          "title_e": "Psychiatry",
+          "doctor": {
+            "doc_name": "이미지",
+            "doc_img": "024_Psychiatry_02",
+            "doc_text1": "경도인지장애·치매클리닉 (치매, 기억력장애), 노인정신건강클리닉 (노인우울증 및 불안증, 불면, 화병 등)",
+            "doc_text2": "기억력 장애, 인지기능장애, 치매, 섬망, 불면증, 공황장애, 불안장애, 기분장애, 우울증, 조울증(양극성장애), 조현병"
+          }
+        },
+        {
+          "part": "성형외과",
+          "room_n": 206,
+          "img_n": 10,
+          "title_e": "Plastic Surgery",
+          "doctor": {
+            "doc_name": "경현우",
+            "doc_img": "010_Plastic_01",
+            "doc_text1": "외상, 사지재건, 만성상처, 모반, 미용성형, 흉터치료",
+            "doc_text2": "각종 외상 치료 및 재건에 대한 연구 안면부를 포함한 외상치료, 만성상처치료, 모반제거수술, 미용성형, 흉터치료"
+          }
+        },
+        {
+          "part": "성형외과",
+          "room_n": 206,
+          "img_n": 10,
+          "title_e": "Plastic Surgery",
+          "doctor": {
+            "doc_name": "김주학",
+            "doc_img": "010_Plastic_02",
+            "doc_text1": "흉터·레이저클리닉(안면외상), 모반, 최소절개양성종양, 유방클리닉(미용·재건, 내시경수술, 여유증), 체형성형(복부), 미용·쁘띠 성형",
+            "doc_text2": "미용 및 재건 유방성형 (재건, 확대·축소, 여유증)흉터 (비후성 흉터·켈로이드)교정을 원하는 복부 및 사지의 체형교정"
+          }
+        },
+        {
+          "part": "마취통증의학",
+          "room_n": 207,
+          "img_n": 4,
+          "title_e": "Anesthesiology",
+          "doctor": {
+            "doc_name": "김여정",
+            "doc_img": "004_Anesthesiology_01",
+            "doc_text1": "경추 및 요추 디스크 시술, 척추 협착증, 대상포진 및 각종 신경통, 어깨통증",
+            "doc_text2": "환자들의 경추 통증, 허리 통증, 각종 신경통을 줄여줄 수 있는 비수술적 시술 (초음파 시술, 신경블록 시술, 고주파 시술, 신경성형술, 추간공성형술 등) 및 다양한 방법을 통하여 통증 관리에 특화된 치료"
+          }
+        },
+        {
+          "part": "마취통증의학",
+          "room_n": 207,
+          "img_n": 4,
+          "title_e": "Anesthesiology",
+          "doctor": {
+            "doc_name": "박지호 ",
+            "doc_img": "004_Anesthesiology_02",
+            "doc_text1": "심폐마취, 부위마취, 일반마취, 통증관리",
+            "doc_text2": "마취제가 뇌에 미치는 영향에 대한 연구, 마취 심도에 따른 뇌파 변화 분석"
+          }
+        },
+        {
+          "part": "비뇨의학과",
+          "room_n": 208,
+          "img_n": 8,
+          "title_e": "Urology",
+          "doctor": {
+            "doc_name": "김계환 ",
+            "doc_img": "008_Urology_01",
+            "doc_text1": "전립선, 전립선암, 로봇수술(다빈치), 여성비뇨의학, 요실금 배뇨장애, 소아비뇨의학, 신경비뇨의학, 성의학, 비뇨의학 보톡스",
+            "doc_text2": "전립선암, 로봇수술, 비뇨의학 보톡스클리닉,간질성방광염, 신경비뇨기과"
+          }
+        },
+        {
+          "part": "비뇨의학과",
+          "room_n": 208,
+          "img_n": 8,
+          "title_e": "Urology",
+          "doctor": {
+            "doc_name": "박종목",
+            "doc_img": "008_Urology_02",
+            "doc_text1": "전립선암, 신장암, 방광암, 비뇨종양의학, 로봇/복강경 수술, 신장이식, 전립선비대증, 요로결석",
+            "doc_text2": "전립선암, 신장암, 방광암, 비뇨종양의학, 신장이식, 로봇/복강경 수술, 전립선비대증, 요로결석"
+          }
+        },
+        {
+          "part": "이비인후과",
+          "room_n": 209,
+          "img_n": 19,
+          "title_e": "Otolaryngology",
+          "doctor": {
+            "doc_name": "박수경 ",
+            "doc_img": "019_Otolaryngology_01",
+            "doc_text1": "코질환, 알레르기·비염, 부비동염, 코성형, 코골이, 수면무호흡증, 비부비동종양",
+            "doc_text2": "알레르기 비염 환자 면역치료, 코골이 환자의 수면의 질 향상을 위한 치료, 동물실험을 통한 불응성 비부비동염 치료 연구"
+          }
+        },
+        {
+          "part": "이비인후과",
+          "room_n": 209,
+          "img_n": 19,
+          "title_e": "Otolaryngology",
+          "doctor": {
+            "doc_name": "김봉직 ",
+            "doc_img": "019_Otolaryngology_02",
+            "doc_text1": "난청(유전성 난청, 신생아 난청), 중이염, 인공와우, 어지럼, 이명, 소아귀질환",
+            "doc_text2": "신생아·유전성 난청/ 난청의 재활/ 인공와우 어지럼/ 이명"
+          }
+        },
+        {
+          "part": "치과",
+          "room_n": 210,
+          "img_n": 21,
+          "title_e": "Dentistry",
+          "doctor": {
+            "doc_name": "김소미",
+            "doc_img": "021_Dentistry_01",
+            "doc_text1": "구강악안면외과 전문의 (임플란트, 구강낭종 및 종양)",
+            "doc_text2": "전신질환 환자의 임플란트, 발치 및 골이식술, 레이저를 이용한 구강내 소수술"
+          }
+        },
+        {
+          "part": "치과",
+          "room_n": 210,
+          "img_n": 21,
+          "title_e": "Dentistry",
+          "doctor": {
+            "doc_name": "김윤선 ",
+            "doc_img": "021_Dentistry_02",
+            "doc_text1": "치과보철과 전문의 (임플란트 보철, 틀니, 크라운, 브릿지, 인레이 등 수복 치료)",
+            "doc_text2": "자연치가 상실된 부위에 임플란트 보철 및 의치, 브릿지 등을 이용한 저작기능 회복 우식이나 파절로 인해 손상된 치아의 수복"
+          }
+        },
+        {
+          "part": "안과",
+          "room_n": 211,
+          "img_n": 14,
+          "title_e": "Ophthalmology",
+          "doctor": {
+            "doc_name": "김진수",
+            "doc_img": "014_Ophthalmology_01",
+            "doc_text1": "녹내장, 백내장",
+            "doc_text2": "녹내장 (최소침습녹내장수술 포함)"
+          }
+        },
+        {
+          "part": "안과",
+          "room_n": 211,
+          "img_n": 14,
+          "title_e": "Ophthalmology",
+          "doctor": {
+            "doc_name": "성재연 ",
+            "doc_img": "014_Ophthalmology_02",
+            "doc_text1": "사시, 소아안과, 신경안과, 성형안과",
+            "doc_text2": "사시, 약시, 소아안과, 신경안과, 복시, 성형안과, 눈물길, 눈꺼풀질환, 의안, 갑상샘눈병증"
+          }
+        }
+      ]
+    },
+    {
+      "floor": "f3",
+      "entries": [
+        {
+          "part": "소아청소년과",
+          "room_n": 301,
+          "img_n": 26,
+          "title_e": "Pediatrics",
+          "doctor": {
+            "doc_name": "김유미",
+            "doc_img": "026_Pediatrics_01",
+            "doc_text1": "월,수 : 소아내분비(저신장, 성조숙증, 비만, 갑상선, 부신, 뇌하수체질환)화,목 : (당뇨, 유전, 대사질환 환자)",
+            "doc_text2": "소아 내분비 질환, 유전대사질환, 염색체/희귀 질환 진단 및 관리, 가족유전상담"
+          }
+        },
+        {
+          "part": "소아청소년과",
+          "room_n": 301,
+          "img_n": 26,
+          "title_e": "Pediatrics",
+          "doctor": {
+            "doc_name": "김민지 ",
+            "doc_img": "026_Pediatrics_02",
+            "doc_text1": "소아 호흡기/알레르기(호흡기질환, 아토피피부염, 식품/약품알레르기, 천식, 알레르기비염, 만성두드러기)",
+            "doc_text2": "잦은 호흡기질환, 만성 호흡기질환에 대한 정확한 진단과 치료, 관리 / 알레르기 질환의 정확한 진단과 치료, 관리"
+          }
+        },
+        {
+          "part": "산부인과",
+          "room_n": 302,
+          "img_n": 9,
+          "title_e": "obstetrics",
+          "doctor": {
+            "doc_name": "유헌종 ",
+            "doc_img": "009_obstetrics_01",
+            "doc_text1": "자궁 및 난소암, 복막 전이암 (복강 내 온열 항암화학요법), 부인암 로봇수술, 부인암 내시경 수술, 부인암 예방 및 치료",
+            "doc_text2": "부인암 환자의 생존률 향상을 위한 수술적 치료법 개발, 유전성 부인암, 항암치료 후 삶의 질 개선, 일반부인과 질환"
+          }
+        },
+        {
+          "part": "산부인과",
+          "room_n": 302,
+          "img_n": 9,
+          "title_e": "obstetrics",
+          "doctor": {
+            "doc_name": "정예원",
+            "doc_img": "009_obstetrics_02",
+            "doc_text1": "고위험 임신(고령임신, 다태임신, 조산, 조기양막파수, 임신중독, 태반이상 등) 산전관리, 태아정밀초음파, 양수검사, 기형진단 및 상담.",
+            "doc_text2": "고령임신, 다태임신, 조산, 조기양막파수, 임신중독, 태반이상, 태아기형, 산전유전진단, 난임 후 임신"
+          }
+        },
+        {
+          "part": "병리과",
+          "room_n": 303,
+          "img_n": 6,
+          "title_e": "Pathology",
+          "doctor": {
+            "doc_name": "강동욱 ",
+            "doc_img": "06_Pathology_01",
+            "doc_text1": "소화기병리(위, 식도, 소장, 대장), 외과병리, 디지털병리",
+            "doc_text2": "대장암 바이오마커 발굴 및 임상적 응용, 대장암 다학제 병리진단 지침안 구축, 디지털병리 및 원격병리 플랫폼 구축"
+          }
+        },
+        {
+          "part": "병리과",
+          "room_n": 303,
+          "img_n": 6,
+          "title_e": "Pathology",
+          "doctor": {
+            "doc_name": "박형규 ",
+            "doc_img": "06_Pathology_02",
+            "doc_text1": "폐병리, 심혈관, 골연부조직병리",
+            "doc_text2": NaN
+          }
+        },
+        {
+          "part": "호흡기내과",
+          "room_n": 304,
+          "img_n": 18,
+          "title_e": "Respiratory",
+          "doctor": {
+            "doc_name": "윤선영 ",
+            "doc_img": "018_Respiratory_01",
+            "doc_text1": "(만 19세 이상 성인) 천식 및 호흡기질환, 알레르기비염, 두드러기, 약물알레르기, 호산구질환",
+            "doc_text2": "천식, 만성폐쇄성폐질환 등 만성 기도질환 전문 치료 및 관리, 천식 동물모델을 통한 중증천식연구 약물 알레르기"
+          }
+        },
+        {
+          "part": "호흡기내과",
+          "room_n": 304,
+          "img_n": 18,
+          "title_e": "Respiratory",
+          "doctor": {
+            "doc_name": "김옥화",
+            "doc_img": "018_Respiratory_02",
+            "doc_text1": "결핵, 비결핵항산균폐질환, 간질성 폐질환",
+            "doc_text2": NaN
+          }
+        },
+        {
+          "part": "호흡기알레르기내과",
+          "room_n": 305,
+          "img_n": 27,
+          "title_e": "RespiratoryAllergy",
+          "doctor": {
+            "doc_name": "김윤주 ",
+            "doc_img": "027_RespiratoryAllergy_01",
+            "doc_text1": "폐암, 폐종양, 호흡기질환",
+            "doc_text2": "폐암 환자에서 면역항암제의 사용, 폐암 연구에서 오가노이드의 활용,전자청진기를 통한 호흡음 자동 분석"
+          }
+        },
+        {
+          "part": "호흡기알레르기내과",
+          "room_n": 305,
+          "img_n": 27,
+          "title_e": "RespiratoryAllergy",
+          "doctor": {
+            "doc_name": "이은소 ",
+            "doc_img": "027_RespiratoryAllergy_02",
+            "doc_text1": "호흡기계 질환 전반",
+            "doc_text2": NaN
+          }
+        }
+      ]
+    }
+  ]
