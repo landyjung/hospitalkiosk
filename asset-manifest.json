@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hospitalkiosk/static/css/main.9da11746.css",
+    "main.js": "/hospitalkiosk/static/js/main.d4cfdf44.js",
+    "static/js/453.cd155de4.chunk.js": "/hospitalkiosk/static/js/453.cd155de4.chunk.js",
+    "index.html": "/hospitalkiosk/index.html",
+    "main.9da11746.css.map": "/hospitalkiosk/static/css/main.9da11746.css.map",
+    "main.d4cfdf44.js.map": "/hospitalkiosk/static/js/main.d4cfdf44.js.map",
+    "453.cd155de4.chunk.js.map": "/hospitalkiosk/static/js/453.cd155de4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da11746.css",
+    "static/js/main.d4cfdf44.js"
+  ]
+}
