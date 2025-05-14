@@ -37,7 +37,7 @@ function RoomInfo({ onRoomSelect }){
                 <li key={roomData.part} onClick={()=>MenuItemClick(roomData)}>
                     <h2>{roomData.part}</h2>
                     <h3>{roomData.title_e}</h3>
-                    <img src={`/images/part${roomData.img_n}.png`} alt={roomData.part} className='part_img' />
+                    <img src={`${process.env.PUBLIC_URL}/images/part${roomData.img_n}.png`} alt={roomData.part} className='part_img' />
                     <strong>{ roomData.floor} <span className="room_n">{roomData.room_n} 진료실</span></strong>
                 </li>
                 ))}

@@ -5,7 +5,7 @@ function Parking(){
         <div className="parkingArea">
             <h1>차량 위치 확인</h1>
             <div className="carInfo">
-                <img src="../images/car.png" alt="car" />
+                <img src={`${process.env.PUBLIC_URL}/images/car.png`} alt="car" />
                 <div>
                     <ul>
                         <li>차량번호</li>

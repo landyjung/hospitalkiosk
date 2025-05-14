@@ -71,7 +71,7 @@ function Floor_03({ selectedRoomData, setSelectedRoomData }){
         {selectedRoomData && (
             <img
                 className={`arrow room_${selectedRoomData.room_n}`}
-                src="/images/arrow.png"
+                src={`${process.env.PUBLIC_URL}/images/arrow.png`}
                 alt="arrow_img"
             />
          )}
